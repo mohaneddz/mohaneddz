@@ -28,8 +28,8 @@
 
 <div align="center">
   <h3>🌟 Featured Projects</h3>
-  <a href="https://github.com/your-username/your-project" target="_blank"><img src="https://img.shields.io/badge/-Project%20One-red?style=for-the-badge" /></a>
-  <a href="https://github.com/your-username/your-project" target="_blank"><img src="https://img.shields.io/badge/-Project%20Two-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/mohaneddz/Website-Git-Hub" target="_blank"><img src="https://img.shields.io/badge/-Project%20One-red?style=for-the-badge" /></a>
+  <a href="https://github.com/mohaneddz/School-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Project%20Two-blue?style=for-the-badge" /></a>
 </div>
 
 <div align="center">
