@@ -25,12 +25,14 @@
   <h3>🚀 My Journey</h3>
   <p>Building efficient, scalable software solutions while exploring the frontiers of AI and Data Science.</p>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohaneddz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohaneddz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohaneddz/output/github-contribution-grid-snake.svg">
-</picture>
 
+<div align="center">
+  <h3>🌟 Featured Projects</h3>
+  <a href="https://github.com/mohaneddz/Website-Git-Hub" target="_blank"><img src="https://img.shields.io/badge/-Project%20One-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/mohaneddz/School-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Project%20Two-red?style=for-the-badge" /></a>
+  <a href="https://github.com/mohaneddz/BreezePomodoro" target="_blank"><img src="https://img.shields.io/badge/-Project%20Three-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/mohaneddz/Scientific-Calculator-2.0" target="_blank"><img src="https://img.shields.io/badge/-Project%20Four-red?style=for-the-badge" /></a>
+</div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
