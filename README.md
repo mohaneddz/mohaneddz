@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manaa Mohaned 👋</h1>
+<h1 align="center">Hi, I'm Manaa Mohaned 🔥</h1>
 <h3 align="center">AI Enthusiast | Junior Software Developer</h3>
 
 <div align="center">
@@ -37,7 +37,7 @@
 <div align="center">
   <h3>📫 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/mohaned-manaa-491483295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mohaned.manaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mohaned.manaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
