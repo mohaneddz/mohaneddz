@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Manaa Mohaned 🔥</h1>
 <h3 align="center">AI Enthusiast | Junior Software Developer</h3>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaneddz&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
