@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Manaa Mohaned 🔥</h1>
 <h3 align="center">AI Enthusiast | Junior Software Developer</h3>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaneddz&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=21600" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600&random=1" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaneddz&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=21600&random=1" height="180" alt="languages graph" />
 </div>
+
 
 <div align="center">
   <h3>🛠 Tech Stack</h3>
