@@ -13,11 +13,6 @@
 <img src="banner.png" alt="My Banner" width="100%" height="auto" />
 </div>
 
-<!-- Separator Line -->
-<div align="center">
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6a00, #ee0979); width: 50%; margin: 20px auto;">
-</div>
-
 <!-- Achievements Header -->
 <h1 align="center" style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Achievements</h1>
 
@@ -37,11 +32,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&no-frame=false&column=4&margin-w=15" width="48%" alt="Trophies" />
 <br>
 
-<!-- Separator Line -->
-<div align="center">
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6a00, #ee0979); width: 50%; margin: 20px auto;">
-</div>
-
 </div>
 
 <!-- Tech Stack Section -->
@@ -50,10 +40,6 @@
 
 <!-- Tech Stack Header -->
 <h2 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🛠 Tech Stack</h2>
-
-<div align="center">
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6a00, #ee0979); width: 50%; margin: 20px auto;">
-</div>
 
 <!-- Frontend & Styling -->
 <h3 style="color: #1e65f5;">🎨 Programming Languages</h3>
@@ -111,11 +97,9 @@
 
 <br>
 
-<!--  -->
 
 <div align="center" style="font-family: 'Arial', sans-serif; color: #ff79c6; background: #141321; padding: 20px; border-radius: 10px; max-width: 48%; margin: auto; border: 2px solid #d4d6da;">
   <h2 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🚀 Featured Projects</h2>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6a00, #ee0979); width: 50%; margin: 20px auto;">
 
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
