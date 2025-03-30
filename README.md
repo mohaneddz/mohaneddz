@@ -43,6 +43,7 @@
 
 <!-- Frontend & Styling -->
 <h3 style="color: #1e65f5;">🎨 Programming Languages</h3>
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
@@ -101,14 +102,13 @@
 <div align="center" style="font-family: 'Arial', sans-serif; color: #ff79c6; background: #141321; padding: 20px; border-radius: 10px; max-width: 48%; margin: auto; border: 2px solid #d4d6da;">
   <h2 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🚀 Featured Projects</h2>
 
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <a href="https://github.com/mohaneddz/Wardi" target="_blank"><img src="https://img.shields.io/badge/-Project%20One-blue?style=for-the-badge" /></a>
 <a href="https://github.com/mohaneddz/EBEC" target="_blank"><img src="https://img.shields.io/badge/-Project%20Two-red?style=for-the-badge" /></a>
+<br>
 <a href="https://github.com/mohaneddz/Academia-Plus" target="_blank"><img src="https://img.shields.io/badge/-Project%20Three-blue?style=for-the-badge" /></a>
 <a href="https://github.com/mohaneddz/Waeky-Waeky" target="_blank"><img src="https://img.shields.io/badge/-Project%20Four-red?style=for-the-badge" /></a>
 
-  </div>
 </div>
 
 <!-- Profile Views -->
