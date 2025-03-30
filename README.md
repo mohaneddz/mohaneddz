@@ -1,49 +1,32 @@
 <div align="center">
 
 <!-- Introduction Header -->
-<h1 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🔥 Hey There, I'm Manaa Mohaned!</h1>
+<h1>🔥 Hey There, I'm Manaa Mohaned!</h1>
 
 <!-- Introduction Paragraph -->
-<p align="center">
-<strong style="color: gray;">Junior AI Student & Software Developer</strong>
-</p>
+<strong>Junior AI Student &amp; Software Developer</strong>
 
 <!-- Banner Image -->
-<div align="center">
-<img src="banner.png" alt="My Banner" width="100%" height="auto" />
-</div>
+<img src="banner.png" alt="My Banner" width="100%" />
 
 <!-- Achievements Header -->
-<h1 align="center" style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Achievements</h1>
+<h1>Achievements</h1>
 
 <!-- GitHub Stats -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=false&random=${Math.random()}" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=false" width="48%" alt="GitHub Stats" />
 <br>
-<!-- GitHub Streaks -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaneddz&theme=radical&hide_border=false" width="48%" alt="GitHub Streaks" />
 <br>
-
-<!-- Contributor Stats -->
-<img src="https://github-contributor-stats.vercel.app/api?username=mohaneddz&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%" alt="GitHub Streaks" />
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&no-frame=false&column=4&margin-w=15" width="48%" alt="Trophies" />
+<img src="https://github-contributor-stats.vercel.app/api?username=mohaneddz&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%" alt="Contributor Stats" />
 <br>
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&no-frame=false&column=4&margin-w=15" width="48%" alt="Trophies" />
 
 <!-- Tech Stack Section -->
+<div style="background:#141321; padding:20px; border-radius:10px; max-width:48%; margin:auto; border:2px solid #d4d6da;">
+<h2>🛠 Tech Stack</h2>
 
-<div align="center" style="font-family: 'Arial', sans-serif; color: #ff79c6; background: #141321; padding: 20px; border-radius: 10px; max-width: 48%; margin: auto; border: 2px solid #d4d6da;">
-
-<!-- Tech Stack Header -->
-<h2 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🛠 Tech Stack</h2>
-
-<!-- Frontend & Styling -->
-<h3 style="color: #1e65f5;">🎨 Programming Languages</h3>
-
+<!-- Programming Languages -->
+<h3 style="color:#1e65f5;">🎨 Programming Languages</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
@@ -57,7 +40,7 @@
 </p>
 
 <!-- Frontend & Styling -->
-<h3 style="color: #50fa7b;">🎨 Frontend & Styling</h3>
+<h3 style="color:#50fa7b;">🎨 Frontend &amp; Styling</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
@@ -69,7 +52,7 @@
 </p>
 
 <!-- Backend & Databases -->
-<h3 style="color: #ffb86c;">🛢 Backend & Databases</h3>
+<h3 style="color:#ffb86c;">🛢 Backend &amp; Databases</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
@@ -83,7 +66,7 @@
 </p>
 
 <!-- AI & Data Science -->
-<h3 style="color: #ff5555;">🤖 AI & Data Science</h3>
+<h3 style="color:#ff5555;">🤖 AI &amp; Data Science</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
@@ -98,19 +81,28 @@
 
 <br>
 
+<!-- Featured Projects -->
+<h2>🚀 Featured Projects</h2>
+<p>
+<a href="https://github.com/mohaneddz/Wardi" target="_blank">
+<img src="https://img.shields.io/badge/-Project%20One-blue?style=for-the-badge" alt="Project One" />
+</a>
+<a href="https://github.com/mohaneddz/EBEC" target="_blank">
+<img src="https://img.shields.io/badge/-Project%20Two-red?style=for-the-badge" alt="Project Two" />
+</a>
+</p>
+<p>
+<a href="https://github.com/mohaneddz/Academia-Plus" target="_blank">
+<img src="https://img.shields.io/badge/-Project%20Three-blue?style=for-the-badge" alt="Project Three" />
+</a>
+<a href="https://github.com/mohaneddz/Waeky-Waeky" target="_blank">
+<img src="https://img.shields.io/badge/-Project%20Four-red?style=for-the-badge" alt="Project Four" />
+</a>
+</p>
 
-<div align="center" style="font-family: 'Arial', sans-serif; color: #ff79c6; background: #141321; padding: 20px; border-radius: 10px; max-width: 48%; margin: auto; border: 2px solid #d4d6da;">
-  <h2 style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">🚀 Featured Projects</h2>
-
-
-<a href="https://github.com/mohaneddz/Wardi" target="_blank"><img src="https://img.shields.io/badge/-Project%20One-blue?style=for-the-badge" /></a>
-<a href="https://github.com/mohaneddz/EBEC" target="_blank"><img src="https://img.shields.io/badge/-Project%20Two-red?style=for-the-badge" /></a>
 <br>
-<a href="https://github.com/mohaneddz/Academia-Plus" target="_blank"><img src="https://img.shields.io/badge/-Project%20Three-blue?style=for-the-badge" /></a>
-<a href="https://github.com/mohaneddz/Waeky-Waeky" target="_blank"><img src="https://img.shields.io/badge/-Project%20Four-red?style=for-the-badge" /></a>
-
-</div>
 
 <!-- Profile Views -->
-<br>
 <img src="https://komarev.com/ghpvc/?username=mohaneddz&label=Profile%20Views&color=ee0979&style=for-the-badge" alt="Profile Views" />
+
+</div>
