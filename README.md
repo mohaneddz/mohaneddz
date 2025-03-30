@@ -26,7 +26,7 @@
 
 ### 🚀 Tech Stack
 
-### 🛠 Languages
+<!-- ### 🛠 Languages -->
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -38,14 +38,14 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Frontend & Styling
+<!-- ### 🎨 Frontend & Styling -->
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛢 Backend & Databases
+<!-- ### 🛢 Backend & Databases -->
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -57,7 +57,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
-### 🤖 AI & Data Science
+<!-- ### 🤖 AI & Data Science -->
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -72,18 +73,18 @@
 
 <p>
 <a href="https://github.com/mohaneddz/Wardi" target="_blank">
-<img src="https://img.shields.io/badge/-Project%20One-pink?style=for-the-badge" alt="Project One" />
+<img src="https://img.shields.io/badge/-Project%20One-blue?style=for-the-badge" alt="Project One" />
 </a>
 <a href="https://github.com/mohaneddz/EBEC" target="_blank">
-<img src="https://img.shields.io/badge/-Project%20Two-orange?style=for-the-badge" alt="Project Two" />
+<img src="https://img.shields.io/badge/-Project%20Two-blue?style=for-the-badge" alt="Project Two" />
 </a>
 </p>
 <p>
 <a href="https://github.com/mohaneddz/Academia-Plus" target="_blank">
-<img src="https://img.shields.io/badge/-Project%20Three-pink?style=for-the-badge" alt="Project Three" />
+<img src="https://img.shields.io/badge/-Project%20Three-blue?style=for-the-badge" alt="Project Three" />
 </a>
 <a href="https://github.com/mohaneddz/Waeky-Waeky" target="_blank">
-<img src="https://img.shields.io/badge/-Project%20Four-orange?style=for-the-badge" alt="Project Four" />
+<img src="https://img.shields.io/badge/-Project%20Four-blue?style=for-the-badge" alt="Project Four" />
 </a>
 </p>
 
