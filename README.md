@@ -13,6 +13,8 @@
 # Achievements
 
 <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaneddz&layout=compact&theme=radical&hide_border=false" width="48%" alt="Languages used" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&show_icons=true&theme=radical&hide_border=false" width="48%" alt="GitHub Stats" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaneddz&theme=radical&hide_border=false" width="48%" alt="GitHub Streaks" />
