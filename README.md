@@ -62,7 +62,7 @@
 
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+<!--  ## 🚀 Featured Projects
 
 <p>
 <a href="https://github.com/mohaneddz/Wardi" target="_blank">
