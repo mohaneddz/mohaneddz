@@ -9,19 +9,11 @@
 <!-- Banner Image -->
 <img src="banner.png" alt="My Banner" width="100%" />
 
-### Some Me
-* **AI** and **Data Science** major at the **National Higher School of Artificial Intelligence (ENSIA)**.<br>
-* **</> Software** Developer with a passion for innovation.<br>
-* I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
-* Fun fact about me: I hate **losing :)**.
-* Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
+**AI & Data Science Student | Full-Stack Developer | Innovation Enthusiast**
 
-### Extra Links
-<p align="left">
-<a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="mohanned kadache" height="32" width="32" /></a>
-<a href="https://kaggle.com/muohannedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muohannedxd" height="32" width="32" /></a>
-<a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="32" width="32" /></a>
-</p>
+Currently pursuing my passion for Artificial Intelligence at ENSIA while building cutting-edge applications. I love turning complex problems into elegant solutions and I'm always eager to learn new technologies. When I'm not coding, you'll find me exploring the latest AI research or working on my next big project.
+
+*"The only way to do great work is to love what you do"* - and I absolutely love what I do! 🚀
 
 ### 🚀 Tech Stack
 
@@ -132,8 +124,20 @@
   </tr>
 </table>
 
+
+### 🌐 Connect With Me
+
+<div style="background:#141321; padding:20px; border-radius:10px; max-width:100%; margin:auto; border:2px solid #d4d6da;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanned-kadache-a11ab8246/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/muohannedxd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muohanned)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanned.kadache@gmail.com)
+
+</div>
+
+</div>
+
 <!-- Profile Views -->
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohaneddz&label=Profile%20Views&color=ee0979&style=for-the-badge" alt="Profile Views" />
-
-</div>
