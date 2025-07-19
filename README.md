@@ -136,8 +136,8 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA while buildin
 
 </div>
 
-</div>
 
 <!-- Profile Views -->
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohaneddz&label=Profile%20Views&color=ee0979&style=for-the-badge" alt="Profile Views" />
+</div>
