@@ -89,17 +89,26 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA while buildin
 <!-- GitHub Stats Grid -->
 <table align="center" style="border-collapse: collapse; border: 1px solid #A1CDF2;">
   <tr>
-    <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&no-frame=false&column=4&margin-w=15" width="740" alt="Trophies" />
-    </td>
+<td colspan="2" align="center" style="padding:10px; border:1px solid #A1CDF2;">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&column=-1&margin-w=15&margin-h=15&no-frame=false"
+    width="740"
+    alt="Trophies" />
+</td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
       <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
     </td>
-    <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohaneddz&theme=radical&hide_border=true" width="360" alt="GitHub Streak" /></a>
-    </td>
+<td align="center" style="padding:10px; border:1px solid #A1CDF2;">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=mohaneddz&theme=radical&hide_border=false&date_format=M%20j%5B,%20Y%5D"
+      alt="GitHub Streak"
+      width="360"
+      style="max-width:100%; height:auto;" />
+  </a>
+</td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
