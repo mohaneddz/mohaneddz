@@ -93,9 +93,13 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA while buildin
 </table>
 ### 🌐 Connect With Me
 <div style="background:#141321; padding:20px; border-radius:10px; max-width:100%; margin:auto; border:2px solid #d4d6da;">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohaned-manaa-491483295/)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohaneddz)
+
 [![Leetcode](https://img.shields.io/badge/Leetcode-035a7d?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohaned_Dz/)
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohaned.manaa.dev@gmail.com)
 </div>
 <br>
