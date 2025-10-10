@@ -9,7 +9,7 @@
 <strong>Junior AI Student & Software Developer</strong>
 
 <!-- Banner Image -->
-<img src="banner.png" alt="My Banner" width="100%" />
+<img src="banner.avif" alt="My Banner" width="100%" />
 
 **AI & Data Science Student | Full-Stack Developer | Innovation Enthusiast**
 
