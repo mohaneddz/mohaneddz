@@ -4,10 +4,6 @@
 
 # 🔥 Hey There, I'm Manaa Mohaned!
 
-<!-- Introduction Paragraph -->
-
-<strong>Junior AI Student & Software Developer</strong>
-
 <!-- Banner Image -->
 <img src="banner.avif" alt="My Banner" width="100%" />
 
