@@ -13,6 +13,8 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA while buildin
 
 _"The only way to do great work is to love what you do"_ - and I absolutely love what I do! 🚀
 
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-035a7d?style=for-the-badge&logo=About.me&logoColor=white)](https://mohaned-manaa.vercel.app/)
+
 ### 🚀 Tech Stack
 
 <div style="background:#141321; padding:20px; border-radius:10px; max-width:100%; margin:auto; border:2px solid #d4d6da;">
