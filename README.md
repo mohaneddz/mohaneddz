@@ -123,6 +123,7 @@ _"The only way to do great work is to love what you do"_ - and I absolutely love
 
 <div style="background:#141321; padding:20px; border-radius:10px; max-width:100%; margin:auto; border:2px solid #d4d6da;">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-035a7d?style=for-the-badge&logo=About.me&logoColor=white)](https://mohaned-manaa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohaned-manaa-491483295/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohaneddz)
 [![Leetcode](https://img.shields.io/badge/Leetcode-035a7d?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohaned_Dz/)
