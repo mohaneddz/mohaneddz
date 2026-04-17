@@ -59,7 +59,6 @@ Currently studying Artificial Intelligence at ENSIA and building web, mobile, de
   <img src="https://img.shields.io/badge/Scikit--learn-8A8A8A?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-8A8A8A?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-8A8A8A?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-8A8A8A?style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
 
 <p align="center">
@@ -71,7 +70,6 @@ Currently studying Artificial Intelligence at ENSIA and building web, mobile, de
   <img src="https://img.shields.io/badge/Docker-E0E0E0?style=for-the-badge&logo=docker&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-E0E0E0?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/git-E0E0E0?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/github-E0E0E0?style=for-the-badge&logo=github&logoColor=black">
 </p>
 
 ## GitHub Statistics
