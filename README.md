@@ -89,34 +89,32 @@ _"The only way to do great work is to love what you do"_ - and I absolutely love
 <table align="center" style="border-collapse: collapse; border: 1px solid #A1CDF2;">
   <tr>
     <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-profile-trophy.vercel.app/?username=mohaneddz&theme=radical&no-frame=false&column=4&margin-w=15" width="740" alt="Trophies" />
+      <img src="http://mestats.vercel.app/api/card/trophies.svg?username=mohaneddz& theme=radical&accent=cyan&size=lg" width="740" alt="Trophies" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohaneddz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
+      <img src="http://mestats.vercel.app/api/card/stats.svg?username=mohaneddz&theme=radical&accent=cyan&size=md" width="360" alt="Stats Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=mohaneddz&theme=radical&hide_border=false&date_format=M%20j%5B,%20Y%5D"
-      alt="GitHub Streak"
-      width="360"
-      style="max-width:100%; height:auto;" />
-  </a>
+      <img
+        src="http://mestats.vercel.app/api/card/streak.svg?username=mohaneddz&theme=radical&accent=cyan&size=md"
+        alt="GitHub Streak"
+        width="360"
+        style="max-width:100%; height:auto;" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaneddz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=radical&hide_border=true&order=2&custom_title=I%20mostly%20use&hide=jupyter%20notebook" width="360" alt="Languages Graph" />
+      <img src="http://mestats.vercel.app/api/card/languages.svg?username=mohaneddz&theme=radical&accent=cyan&size=md" width="360" alt="Languages Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-contributor-stats.vercel.app/api?username=mohaneddz&limit=5&custom_title=Contribution%20Repos&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="360" alt="Contributed Repos" />
+      <img src="http://mestats.vercel.app/api/card/velocity.svg?username=mohaneddz&theme=radical&accent=cyan&size=md" width="360" alt="Contribution Velocity" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohaneddz&radius=16&theme=radical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" width="740" alt="Activity Graph" />
+      <img src="http://mestats.vercel.app/api/card/contribution-graph.svg?username=mohaneddz&theme=radical&accent=cyan&size=lg" width="740" alt="Activity Graph" />
     </td>
   </tr>
 </table>
