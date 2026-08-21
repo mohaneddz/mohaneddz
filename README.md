@@ -14,6 +14,8 @@ Currently studying Artificial Intelligence at ENSIA and building web, mobile, de
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-2A2A2A?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mohaned.space//)
 
+[![committers.top badge](https://user-badge.committers.top/algeria_public/mohaneddz.svg)](https://user-badge.committers.top/algeria_public/mohaneddz)
+
 </div>
 
 ## Tech Stack
